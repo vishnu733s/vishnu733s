@@ -1,6 +1,9 @@
+<a href="https://github.com/vishnu733s/vishnu733/blob/main/Modern%20Minimal%20Elegant%20Technology%20Background%20Banner.png">
+  <img src="https://github.com/vishnu733s/vishnu733/blob/main/Modern%20Minimal%20Elegant%20Technology%20Background%20Banner.png" alt="Description of the image">
+</a>
 <h1 align="center">Hi 👋, I'm Vishnu s</h1>
 <h3 align="center">A BlockChain enthusiast from India</h3>
-<img align ="right" alt="Blockchain" width="400" src="![image](https://github.com/vishnu733s/vishnu733/assets/149617847/13c0004c-447d-407d-a6c6-fa7228c87af8)
+<img align ="right" alt="Blockchain" width="400" src="
 ">
 
 <p align="left"> <a href="https://twitter.com/vishnusure18455" target="blank"><img src="https://img.shields.io/twitter/follow/vishnusure18455?logo=twitter&style=for-the-badge" alt="vishnusure18455" /></a> </p>
