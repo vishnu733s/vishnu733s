@@ -1,5 +1,5 @@
-<a href="https://github.com/vishnu733s/vishnu733/blob/main/Modern%20Minimal%20Elegant%20Technology%20Background%20Banner.png">
-  <img src="https://github.com/vishnu733s/vishnu733/blob/main/Modern%20Minimal%20Elegant%20Technology%20Background%20Banner.png" alt="Description of the image">
+<a href="https://github.com/vishnu733s/vishnu733s/blob/main/Blue%20Simple%20LinkedIn%20Banner.png">
+  <img src="https://github.com/vishnu733s/vishnu733s/blob/main/Blue%20Simple%20LinkedIn%20Banner.png" alt="Description of the image">
 </a>
 <h1 align="center">Hi 👋, I'm Vishnu s</h1>
 <h3 align="center">A BlockChain enthusiast from India</h3>
