@@ -15,26 +15,26 @@
 
 <h3 align="left">🌐 Blockchain Enthusiast:
 
-👋 Hello, fellow blockchain aficionado! I'm passionate about the decentralized future and currently immersed in the exciting world of blockchain development. My journey revolves around mastering Solidity, the language of smart contracts.
+🌐 Blockchain Enthusiast
 
-🚀 Current Focus:
+👋 Hello everyone, Blockchain Enthusiasts! I am passionate about the future of distribution and am now entering the exciting world of blockchain development. My journey revolves around the knowledge of smart contracts.
 
-📚 Learning and mastering Solidity for smart contract development.
-🌐 Exploring the possibilities of decentralized applications (DApps).
-💡 Contributing to the evolution of blockchain technology.
-🛠️ Tech Stack:
+🚀 Current focus:
 
-💻 Solidity | Smart Contracts
-📦 Ethereum | Binance Smart Chain
-🚀 Web3.js | Truffle | Hardhat
-📖 What You'll Find in My Repositories:
+📚 Learn and experience Collaboration for smart contracts.
+🌐 Explore the possibilities of digital applications (DApps).
+💡 Contribute to the development of blockchain technology.
+🛠️Technology Stack:
 
-🤖 Solidity projects and smart contract implementations.
-🌐 Decentralized application prototypes and experiments.
-🔗 Contributions to blockchain-related open-source projects.
-🌱 Learning Never Stops:
+💻 Hardness Smart Contract
+📦Ethereum Binance Smart Chain
+🚀 Web3.js Truffle Hardhat
+📖 What you'll find in my repository:
+< br> 🤖 Collaboration projects and smart contracts.
+🌐 Decentralized application prototypes and tests.
+🔗 Contribution to an open source project on blockchain.
+🌱 Learning never ends:
 
-I believe in the power of continuous learning and collaboration. Join me on this journey as we navigate the ever-evolving landscape of decentralized technologies.
-
-🚀 Excited about the future where decentralized technologies redefine the way we interact with the digital world. Let's build the future together!</h4>
+I believe in the power of continuous learning and collaboration. Join me on this journey as we explore the changing landscape of decentralized technology.
+🚀 Enjoy the future where decentralized technology will redefine the way we interact with the digital world. Let's build the future together! </h1>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer">
