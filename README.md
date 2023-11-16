@@ -3,9 +3,6 @@
 </a>
 <h1 align="center">Hi 👋, I'm Vishnu s</h1>
 <h3 align="center">A BlockChain enthusiast from India</h3>
-<img align ="right" alt="Blockchain" width="400" src="
-">
-
 <p align="left"> <a href="https://twitter.com/vishnusure18455" target="blank"><img src="https://img.shields.io/twitter/follow/vishnusure18455?logo=twitter&style=for-the-badge" alt="vishnusure18455" /></a> </p>
 
 - 📫 How to reach me **vishnu733suresh@gmail.com**
