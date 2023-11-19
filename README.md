@@ -1,5 +1,5 @@
-<a href="https://github.com/vishnu733s/vishnu733s/blob/main/Blue%20Simple%20LinkedIn%20Banner.png">
-  <img src="https://github.com/vishnu733s/vishnu733s/blob/main/Blue%20Simple%20LinkedIn%20Banner.png" alt="Description of the image">
+<a href="https://marketplace.canva.com/EAE4d7RlH9w/1/0/1600w/canva-blue-simple-linkedin-banner-T9MYWMyMX00.jpg">
+  <img src="https://marketplace.canva.com/EAE4d7RlH9w/1/0/1600w/canva-blue-simple-linkedin-banner-T9MYWMyMX00.jpg" alt="Description of the image">
 </a>
 <h1 align="center">Hi 👋, I'm Vishnu s</h1>
 <h3 align="center">A BlockChain enthusiast from India</h3>
